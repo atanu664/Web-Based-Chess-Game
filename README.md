@@ -1,4 +1,4 @@
-# Checkmate in Code
+# Web Based Chess Game [Checkmate In Code : Building A Chess Game From Scratch] 
 
 
 
