@@ -1,4 +1,6 @@
 # Web-Based Chess Game
+![Alt Text](gameover-screenshot.png)
+
 
 ## 1. Introduction
 This project is a **web-based chess game** that allows two players to play chess on a single device. The game follows standard chess rules and features a simple user interface. It includes sound effects for piece movements and displays a **"GAME OVER"** message when the game ends.
@@ -120,7 +122,7 @@ This project delivers a simple chess game with a user-friendly interface. It adh
 
 ## 10. Game Over Screen
 
-![Game Over](https://via.placeholder.com/400x200)
+
 
 ---
 
