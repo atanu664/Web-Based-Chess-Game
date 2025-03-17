@@ -1,5 +1,6 @@
 # Web-Based Chess Game
-![Alt Text](gameover-screenshot.png)
+
+
 
 
 ## 1. Introduction
